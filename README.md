@@ -1,0 +1,2 @@
+# InternetPolyglotClub
+Belajar Scripting
